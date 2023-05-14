@@ -30,3 +30,6 @@ In terms of sparating concerns, instead of one views file, we can have a views d
   ```
   pip install -r requirements.txt
   ```
+
+  ## Extra Info
+  You can find more info on the requirements.txt [here](https://dev.to/voilalex/automatically-manage-python-dependencies-with-requirementstxt-5g11)
